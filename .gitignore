@@ -1,0 +1,9 @@
+# Ejecutables
+*.exe
+
+# VS Code
+.vscode/
+
+# Objetos temporales
+*.o
+*.out
